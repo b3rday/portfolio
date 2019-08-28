@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Robin Alberici",
+    "label": "En formation",
+    "picture": "https://images.france.fr/zeaejvyq9bhj/4uWgLZlyd5FWsyKuyI6FWT/3c0d4287edb05e0382c40c96ffed72e2/Nice__Sergii_Figurnyi_-_AdobeStock.jpg?w=1120&h=490&q=70&fm=webp&fit=fill",
+    "email": "robinalberici@gmail.com",
+    "phone": "0665437914",
+  
+    "summary": "je démarre une reconversion professionelle afin de devenir Développeur Web/Web Mobile.Partant de zéro en programmation,je trouve cela trés interessants,je vais donc débuter une formation de développeur web de 7mois, a partir de Novembe 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "06000",
+      "city": "Nice",
+      "countryCode": "France",
+      "region": "PACa"
     },
     "profiles": [
       {
@@ -20,29 +20,17 @@
         "username": "mmaluhia",
         "url": "http://github.com/changeme"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
+   
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "Robinalberici",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
-  "interests": [
+  "Centre d'intérets": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "Musiques,Voyages,Sport,Informatiques"
       ]
     },
     {
